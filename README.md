@@ -11,7 +11,7 @@ Official PyTorch implementation of **"Hybrid-Domain Posterior Sampling for Inver
 * **Identify "First-Order Manifold Blindness":** We formalize the geometric bottleneck where rank-deficient decoder Jacobians mathematically erase high-frequency measurement updates in latent-space solvers.
 * **Decoupled Hybrid-Domain Optimization:** We break single-domain limitations by splitting roles—using uncompressed pixel space for precise data fidelity and latent space for generative prior modeling.
 * **Artifact-Suppressed Latent Alignment:** Instead of error-prone direct encoding, we employ a test-time decoder inversion that acts as a structural filter to prevent semantic drift.
-* **Training-Free Plug-and-Play Solver:** HDPS achieves state-of-the-art accuracy on extreme linear inverse problems (e.g., $ \times12 $ SR) without any retraining or model modifications.
+* **Training-Free Plug-and-Play Solver:** HDPS achieves state-of-the-art accuracy on extreme linear inverse problems (e.g., $ \times 12 $ SR) without any retraining or model modifications.
 
 ---
 
