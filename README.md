@@ -1,6 +1,6 @@
 # [ACM MM 2026] Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching
 
-## 📝 [Paper](https://arxiv.org/abs/2607.xxxx) | 🏆 **ACM Multimedia 2026**
+## 📝 [Paper](https://arxiv.org/abs/2608.00537) | 🏆 **ACM Multimedia 2026**
 
 Official PyTorch implementation of **"Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching"** (**HDPS**).
 
@@ -43,7 +43,7 @@ Theoretical analysis guarantees that HDPS bypasses first-order manifold blindnes
 First, clone this repository and install requirements.
 
 ```bash
-git clone https://github.com/.../HDPS.git
+git clone https://github.com/74587887/HDPS.git
 cd HDPS
 conda create -n hdps python==3.10
 conda activate hdps
