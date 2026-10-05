@@ -137,11 +137,10 @@ We gratefully acknowledge their contributions to the field.
 If you find our work useful, please kindly consider citing:
 
 ```bibtex
-@inproceedings{wu2026hybrid,
+@article{wu2026hybrid,
   title={Hybrid-Domain Posterior Sampling for Inverse Problems via Latent Flow Matching},
   author={Wu, Hongjie and Xie, Yiping and Lv, Jiancheng},
-  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
-  pages={...},
+  journal={arXiv preprint arXiv:2608.00537},
   year={2026}
 }
 ```
